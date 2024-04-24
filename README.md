@@ -1,6 +1,6 @@
 <h3 align="center"><img src="dancing-cat.gif" width="30"/></h3>
 <h2 align=center>
-  <a href="https://www.linkedin.com/in/lansarbacoroceolansarcenter/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&color=000000&center=true&width=435&lines=I+am+Bacoro+dit+Elhadji+Lansar+Studying+Information+System+Engineering+and+interested+with+mobile+and+web+Development;A+tech+lover;Always+Exploring+New+Technologies" alt="Typing SVG" /></a>
+  <a href="https://www.linkedin.com/in/lansarbacoroceolansarcenter/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&color=000000&center=true&width=435&lines=I+am+Bacoro+dit+Elhadji+Lansar;Studying+Information+System+Engineering+and+interested+with+mobile+and+web+Development;A+tech+lover;Always+Exploring+New+Technologies" alt="Typing SVG" /></a>
 </h2>
 
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
@@ -53,15 +53,11 @@
 </details>
 
 
-<h3>⚡ Recent GitHub Activity</h3>
+
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#832](https://github.com/joltup/rn-fetch-blob/issues/832#issuecomment-2002418023) in [joltup/rn-fetch-blob](https://github.com/joltup/rn-fetch-blob)
-2. 🗣 Commented on [#6665](https://github.com/expo/expo/issues/6665#issuecomment-2002363514) in [expo/expo](https://github.com/expo/expo)
-3. 🗣 Commented on [#1374](https://github.com/react-native-webview/react-native-webview/issues/1374#issuecomment-2002363079) in [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview)
-4. 🗣 Commented on [#21198](https://github.com/expo/expo/issues/21198#issuecomment-1997944746) in [expo/expo](https://github.com/expo/expo)
-5. 🗣 Commented on [#4506](https://github.com/software-mansion/react-native-reanimated/issues/4506#issuecomment-1986828131) in [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
+
 <!--END_SECTION:activity-->
 
 
