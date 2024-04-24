@@ -1,6 +1,6 @@
 <h3 align="center"><img src="dancing-cat.gif" width="30"/></h3>
 <h2 align=center>
-  <a href="https://www.linkedin.com/in/lansarbacoroceolansarcenter/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=000000&center=true&width=435&lines=I+am+Bacoro+dit +Elhadji+Lansar;Studying+Information+System+Engineering+and+Studying+mobile+and+web+Development;A+tech+lover;Always+Exploring+New+Technologies" alt="Typing SVG" /></a>
+  <a href="https://www.linkedin.com/in/lansarbacoroceolansarcenter/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&color=000000&center=true&width=435&lines=I+am+Bacoro+dit+Elhadji+Lansar;Studying+Information+System+Engineering+and+interested+with+mobile+and+web+Development;A+tech+lover;Always+Exploring+New+Technologies" alt="Typing SVG" /></a>
 </h2>
 
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
