@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying in **Information system Engineering** at **Sakarya University**
 
-- 🌱 I’m currently learning **JavaScript/Nextjs**,**Python**, **Flutter**
+- 🌱 I’m currently learning **JavaScript/Next-js**,**Python for computervision and AI**, **Flutter**,
 
 - 📫 How to reach me **lansarbacoro@gmail.com**
 
