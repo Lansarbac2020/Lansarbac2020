@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="dev-working.gif" alt="Lansar"/> </p>
 
-- 🔭 I’m currently studying in **Information system Engineering** at **Sakarya University**
+- 🔭 I’m  studying in **Information system Engineering** at **Sakarya University**
 
 - 🌱 I’m currently learning **JavaScript/Next-js**,**Python for computervision and AI**
 
