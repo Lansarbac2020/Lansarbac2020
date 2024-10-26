@@ -5,9 +5,9 @@
 
 <p align="center"> <img src="dev-working.gif" alt="Lansar"/> </p>
 
-- 🔭 I’m  studying in **Information system Engineering** at **Sakarya University**
+- 🔭 **Information system Engineering student** at **Sakarya University**
 
-- 🌱 I’m currently learning **JavaScript/Next-js**,**Python for computervision and AI**
+- 🌱 I’m currently learning **Reactjs/Next-js**,**Python for computervision and AI**
 
 - 📫 How to reach me **lansarbacoro@gmail.com**
 
