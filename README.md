@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Reactjs/Next-js**,**Python for computervision and AI**
 
+- 📫 Build scalable web applications 
+
 - 📫 How to reach me **lansarbacoro@gmail.com**
 
 
@@ -17,7 +19,6 @@
 
 
 [<img align="left" alt="Bacoroditelhadji lansar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="21_lansar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
